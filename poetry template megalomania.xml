@@ -1,0 +1,104 @@
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="megalomania">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Megalomania</title>
+                <author>Roque Dalton</author>
+                <translator target="#hsm">Hardie St. Martin</translator>
+                <translator xml:id="jg">James Graham</translator>
+                      <translator>Jonathan Cohen</translator>
+                       <translator>Ralph Nelson</translator>
+                        <translator>Paul Pines</translator>
+                         <translator>David Unger</translator>
+                <editor role="editor" xml:id="hsm">Hardie St. Martin</editor>
+                <editor role="digital-edition-editor" xml:id="ib">Isabella Baker</editor>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="ib">Isabella Baker</persName>
+                </respStmt>
+                <sponsor>Boston College</sponsor>
+            </titleStmt>
+            <editionStmt>
+                <edition><p></p> [note]
+                    <date>Fall 2024</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <availability>
+                    <p>Licensed under a
+                        <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>
+                        (CC BY 4.0). Any reuse of the material should credit Isabella Baker. Permission to reproduce the graphic images of the original item should be sought by the original publisher.
+                    </p>
+                </availability>
+                <idno>megalomania</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note type="" target="#"><ref target=""></ref></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Roque Dalton</author>
+                    <editor>Hardie St. Martin</editor>
+                    <translator>Hardie St. Martin</translator>
+                     <translator>James Graham</translator>
+                      <translator>Jonathan Cohen</translator>
+                       <translator>Ralph Nelson</translator>
+                        <translator>Paul Pines</translator>
+                         <translator>David Unger</translator>
+                    <date when="1996-09">September 1996</date>
+                    <title>Small Hours of the Night: Selected Poems of Roque Dalton</title>
+                    <idno type="isbn">9781880684351</idno>
+                    <publisher>Northwestern University Press</publisher>
+                    <note type="project">Transcribed from digital images of this translated editions of Dalton's poems.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#ib" when="2024-10-28">Created document and added basic structural TEI.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="" xml:id="leaf001r" type="recto"/>
+            <div1 type="poem">
+               
+                <head type="main-authorial">MEGALOMANIA</head>
+            
+                <lg type="stanza">
+                
+                    <l>Frederick II was emperor of the high-and-mighty Germans and yet </l>
+                    <l>he was excommunicated by the Pope </l>
+                    <l>because he made the study of medicine a requisite for doctors </l>
+                    <l>before they could prescribe infusions for a fee </l>
+                    <l>or cut off flesh from a person's flesh. </l>
+                    </lg>
+                    <lg>
+                    <l>Miguel Servet was excommunicated shortly before</l> 
+                    <l>they reduced him to ashes: </l>
+                    <l>they say this was to speed it up for him</l> 
+                    <l>to go on discussing the advanced sciences in restful eternity.</l>
+                    </lg>
+                    <lg>
+                    <l>Martin Luther believed God the Father's divine liver acted up </l>
+                    <l>whenever he looked through the clouds and saw fat priests </l>
+                    <l>running around </l> [note:justify right]
+                    </lg>
+                    <lg>
+                    <l>city neighborhoods getting rich from the sale of indulgences </l>
+                    <l>paid in hardcash, </l> [note: justify right]
+                    </lg>
+                    <lg>
+                    <l>He was thrown out of the Church for defending God's liver</l>
+                    </lg>
+                    <lg>
+                    <l>Thin, puny, with wary eye and down-trodden look, </l>
+                    <l>I'd have to perform marvelous actions like theirs </l>
+                    <l>to be also thrown out of the Church </l>
+                    <l>and save my artless vanity forever. </l>
+                    </lg>
+              <note type="editorial" target="#hsm"> [HSM] </note>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="theartofpoetry">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Art of Poetry</title>
+                <author>Roque Dalton</author>
+                <translator target="#hsm">Hardie St. Martin</translator>
+                <translator xml:id="jg">James Graham</translator>
+                      <translator>Jonathan Cohen</translator>
+                       <translator>Ralph Nelson</translator>
+                        <translator>Paul Pines</translator>
+                         <translator>David Unger</translator>
+                <editor role="editor" xml:id="hsm">Hardie St. Martin</editor>
+                <editor role="digital-edition-editor" xml:id="ib">Isabella Baker</editor>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="ib">Isabella Baker</persName>
+                </respStmt>
+                <sponsor>Boston College</sponsor>
+            </titleStmt>
+            <editionStmt>
+                <edition><p></p> [note]
+                    <date>Fall 2024</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <availability>
+                    <p>Licensed under a
+                        <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>
+                        (CC BY 4.0). Any reuse of the material should credit Isabella Baker. Permission to reproduce the graphic images of the original item should be sought by the original publisher.
+                    </p>
+                </availability>
+                <idno>theartofpoetry</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note type="" target="#"><ref target=""></ref></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Roque Dalton</author>
+                    <editor>Hardie St. Martin</editor>
+                    <translator>Hardie St. Martin</translator>
+                     <translator>James Graham</translator>
+                      <translator>Jonathan Cohen</translator>
+                       <translator>Ralph Nelson</translator>
+                        <translator>Paul Pines</translator>
+                         <translator>David Unger</translator>
+                    <date when="1996-09">September 1996</date>
+                    <title>Small Hours of the Night: Selected Poems of Roque Dalton</title>
+                    <idno type="isbn">9781880684351</idno>
+                    <publisher>Northwestern University Press</publisher>
+                    <note type="project">Transcribed from digital images of this translated editions of Dalton's poems.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+           <change who="#ib" when="2024-10-28">Created document and added basic structural TEI.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="" xml:id="leaf001r" type="recto"/>
+            <div1 type="poem">
+               
+                <head type="main-authorial">THE ART OF POETRY</head>
+            <note type="dedication"> To Raul Castellanos </note>
+            
+                <lg type="stanza">
+                
+                    <l>Anguish exists. </l>
+                    </lg>
+                    <lg>
+                    <l>Man uses his old disasters like a mirror. </l>
+                    </lg>
+                    <lg>
+                    <l>An hour or so after dusk </l>
+                    <l>the man picks up the painful remnants of his day </l>
+                    <l>and worried sick he puts them right next to his heart </l>
+                    <l>he sweats like a TB patient fighting for his life </l>
+                    <l>and sinks into his deep lonely rooms. </l>
+                    <l>There buried in his thoughts he smokes </l>
+                    <l>he'd like to invent ruinous cobwebs on the ceiling </l>
+                    <l>he hates the flower's fresh look </l>
+                    <l>he withdraws into his own asphyxiating skin </l>
+                    <l>he looks at his coarse feet </l>
+                    <l>he thinks his bed's his grave day after day </l>
+                    <l>he doesn't have a penny to his name </l>
+                    <l>he's hungry </l>
+                    <l>and breaks into sobs. </l>
+                    </lg>
+                    <lg>
+                    <l>But men all other men </l>
+                    <l>bare their chests to the sun without a care </l>
+                    <l>or to the killings in the streets </l>
+                    <l>they lift the faces of the loaves out of the ovens </l>
+                    <l>like a generous banner against hunger </l>
+                    <l>they laugh with children until even the air hurts </l>
+                    <l>they cram tiny footsteps into the wombs of blessed women </l>
+                    <l>they split open like fruit rocks obstinate in their solemnity </l>
+                    <l>they sing naked into the inviting glass of water </l>                
+                    <l>they joke with the sea taking it by the horns playfully </l>
+                    <l>they build houses of light in the song-filled wilderness </l>
+                    <l>they get drunk like God everywhere </l>
+                    <l>they set their fists against despair </l>
+                    <l>their avenging fires against crime </l>
+                    </lg>
+                    <lg>
+                    <l>their love with its interminable roots </l>
+                    <l>against hatred's vicious scythe. </l>
+                    </lg>
+                    <lg>
+                    <l>Yes, anguish exists.</l>
+                    </lg>
+                    <lg>
+                    <l>Like despair </l>
+                    <l>crime </l>
+                    <l>or hate. </l>
+                    </lg>
+                    <lg>
+                    <l>Who should the poet's voice be for? </l>
+                    </lg>
+              <note type="editorial" target="#hsm"> [HSM] </note>
+            </div1>
+        </body>
+    </text>
+</TEI>
