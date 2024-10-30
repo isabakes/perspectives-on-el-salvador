@@ -67,14 +67,17 @@
             
                 <lg type="stanza">
                 
-                    <l>She was more beautiful than a Czechoslovak factory </l>
+                    <l>She was more beautiful than a <interp type="marxist-rhetoric">Czechoslovak factory</interp><ptr target="#no1">1</ptr></l>
                     <l>when one thinks of her </l>
-                    <l>after being tortured for four hours </l>
+                    <l>after being <interp type="marxist-rhetoric">tortured</interp><ptr target="#no2">2</ptr> for four hours</l>
                     <l>in the brightest and newly aired rooms </l>
-                    <l>at the Headquarters of the National Guard. </l>
+                    <l>at the Headquarters of the <interp type="marxist-rhetoric">National Guard.</interp><ptr target="#no3">3</ptr></l>
                     </lg>
               <note type="editorial" target="#jg"> [JG] </note>
             </div1>
+            <note xml:id="no1"></note>
+            <note xml:id="no2"></note>
+            <note xml:id="no3"></note>
         </body>
     </text>
 </TEI>
