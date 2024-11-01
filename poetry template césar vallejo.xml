@@ -71,12 +71,12 @@
                     <l>—good breeding </l>
                     <l>raises its knife-edge—</l>
                     <l>this body not yet introduced to me </l>
-                    <l>better than when it lived yields to death itself </l>
+                    <l>better than when it lived <interp type="marxist-rhetoric">yields to death itself </interp><ptr target="#no1">1</ptr></l>
                     <l>it waves its petals to the seeds of love</l>
                     </lg>
                     <lg>
                     <l>This dead body who would have imagined it </l>
-                    <l>defending its cup of storms </l>
+                    <l><interp type="marxist-rhetoric">defending its cup of storms </interp><ptr target="#no2">2</ptr></l>
                     <l>visited by blind circus butterflies </l>
                     <l>its huge pores dead </l>
                     <l>its old smokes dead from his sitting there </l>
@@ -87,25 +87,32 @@
                     <lg>
                     <l>This dead body that contradicts me </l>
                     <l>growing shoulder to shoulder with the language </l>
-                    <l>of a just calamity that crackles </l>
+                    <l>of a <interp type="marxist-rhetoric">just calamity that crackles </interp><ptr target="#no3">3</ptr></l>
                     </lg>
                     <lg>
                     <l>This dead body of dry water </l>
                     <l>this critically ill </l>
                     <l>dead body whose bones are guests </l>
                     <l>comes in runs its fingers over its flags </l>
-                    <l>interrogates its interrogators </l>
+                    <l><interp type="marxist-rhetoric">interrogates its interrogators</interp><ptr target="#no4">4</ptr> </l>
                     <l>this body gives with all its heart the only thing it owns </l>
                     <l>it wept it comes back and goes away weeping </l>
                     </lg>
                     <lg>
-                    <l>Somewhere in the world his tombstone breathes </l>
-                    <l>under the solemn weight of the name he gave life to </l>
+                    <l>Somewhere in the world <interp type="marxist-rhetoric">his tombstone breathes</interp><ptr target="#no5">5</ptr></l>
+                    <l>under the <interp type="marxist-rhetoric">solemn weight</interp><ptr target="#no6">6</ptr> of the name he gave life to </l>
                     <l>one day he said things that will always last </l>
-                    <l>the world is much heavier since his death </l>
+                    <l><interp type="marxist-rhetoric">the world is much heavier since his death </interp><ptr target="#no7">7</ptr></l>
                     </lg>
               <note type="editorial" target="#hsm"> [HSM] </note>
             </div1>
+            <note xml:id="no1"></note>
+            <note xml:id="no2"></note>
+            <note xml:id="no3"></note>
+            <note xml:id="no4"></note>
+            <note xml:id="no5"></note>
+            <note xml:id="no6"></note>
+            <note xml:id="no7"></note>
         </body>
     </text>
 </TEI>

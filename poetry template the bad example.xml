@@ -68,13 +68,13 @@
             
                 <lg type="stanza">
                 
-                    <l>They made me choose between selling out and the wall</l>
+                    <l>They made me choose between <interp type="marxist-rhetoric">selling out</interp><ptr target="#no1">1</ptr> and the wall</l>
                     <l> and it was a wall of knives. </l>
                     </lg>
                     <lg>
                     <l>And since I couldn't help getting cut up</l>
                     <l>son of the worst plague they said to me </l>
-                    <l>he doesn't love his blood </l>
+                    <l><interp type="marxist-rhetoric">he doesn't love his blood</interp><ptr target="#no2">2</ptr> </l>
                     <l>refuses to keep it in </l>
                     <l>and unties the knots of his veins. </l>
                     <l></l>
@@ -90,8 +90,9 @@
                  <l> I hope at least the little children will come unto me. </l>
                  </lg>
               <note type="editorial" target="#hsm"> [HSM] </note>
-
             </div1>
+            <note xml:id="no1"></note>
+            <note xml:id="no2"></note>
         </body>
     </text>
 </TEI>

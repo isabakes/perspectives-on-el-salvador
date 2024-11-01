@@ -67,14 +67,14 @@
             
                 <lg type="stanza">
                 
-                    <l>Frederick II was emperor of the high-and-mighty Germans and yet </l>
-                    <l>he was excommunicated by the Pope </l>
+                    <l>Frederick II was emperor of the <interp type="marxist-rhetoric">high-and-mighty</interp><ptr target="#no1">1</ptr>Germans and yet </l>
+                    <l><interp type="marxist-rhetoric">he was excommunicated by the Pope</interp><ptr target="#no2">2</ptr> </l>
                     <l>because he made the study of medicine a requisite for doctors </l>
                     <l>before they could prescribe infusions for a fee </l>
                     <l>or cut off flesh from a person's flesh. </l>
                     </lg>
                     <lg>
-                    <l>Miguel Servet was excommunicated shortly before</l> 
+                    <l><interp type="marxist-rhetoric">Miguel Servet was excommunicated shortly before</interp><ptr target="#no3">3</ptr></l> 
                     <l>they reduced him to ashes: </l>
                     <l>they say this was to speed it up for him</l> 
                     <l>to go on discussing the advanced sciences in restful eternity.</l>
@@ -85,11 +85,11 @@
                     <l>running around </l> [note:justify right]
                     </lg>
                     <lg>
-                    <l>city neighborhoods getting rich from the sale of indulgences </l>
+                    <l><interp type="marxist-rhetoric">city neighborhoods getting rich</interp><ptr target="#no4">4</ptr> from the sale of indulgences </l>
                     <l>paid in hardcash, </l> [note: justify right]
                     </lg>
                     <lg>
-                    <l>He was thrown out of the Church for defending God's liver</l>
+                    <l><interp type="marxist-rhetoric">He was thrown out of the Church</interp><ptr target="#no5">5</ptr> for defending God's liver</l>
                     </lg>
                     <lg>
                     <l>Thin, puny, with wary eye and down-trodden look, </l>
@@ -99,6 +99,11 @@
                     </lg>
               <note type="editorial" target="#hsm"> [HSM] </note>
             </div1>
+            <note xml:id="no1"></note>
+            <note xml:id="no2"></note>
+            <note xml:id="no3"></note>
+            <note xml:id="no4"></note>
+            <note xml:id="no5"></note>
         </body>
     </text>
 </TEI>

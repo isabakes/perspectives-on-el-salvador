@@ -69,10 +69,10 @@
                 <lg type="stanza">
                 
                     <l>The last hired mourner went off </l>
-                    <l>to look for comfort among fools. </l>
+                    <l>to look for <interp type="marxist-rhetoric">comfort among fools.</interp><ptr target="#no1">1</ptr> </l>
                     </lg>
                     <lg>
-                    <l>(I could stand naked in this huge town square </l>
+                    <l>(I could <interp type="marxist-rhetoric">stand naked in this huge town square</interp><ptr target="#no2">2</ptr> </l>
                     <l>lit up by the phosphorescences of the stillness</l>
                     <l>and there would be no intruders to stare at me. </l>
                     </lg>
@@ -85,10 +85,13 @@
                     <l> and weep with me to the end.</l>
                     </lg>
                     <lg>
-                    <l>Maybe then I'll be strong enough to make the truth less bitter.</l>
+                    <l>Maybe then <interp type="marxist-rhetoric">I'll be strong enough to make the truth less bitter.</interp><ptr target="#no3">3</ptr></l>
                 </lg>
               <note type="editorial" target="#hsm"> [HSM] </note>
             </div1>
+            <note xml:id="no1"></note>
+            <note xml:id="no2"></note>
+            <note xml:id="no3"></note>
         </body>
     </text>
 </TEI>

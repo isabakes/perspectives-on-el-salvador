@@ -102,12 +102,12 @@
                     <l>they joke with the sea taking it by the horns playfully </l>
                     <l>they build houses of light in the song-filled wilderness </l>
                     <l>they get drunk like God everywhere </l>
-                    <l>they set their fists against despair </l>
-                    <l>their avenging fires against crime </l>
+                    <l><interp type="marxist-rhetoric">they set their fists against despair</interp><ptr target="#no1">1</ptr> </l>
+                    <l><interp type="marxist-rhetoric">their avenging fires against crime</interp><ptr target="#no2">2</ptr> </l>
                     </lg>
                     <lg>
-                    <l>their love with its interminable roots </l>
-                    <l>against hatred's vicious scythe. </l>
+                    <l><interp type="marxist-rhetoric">their love with its interminable roots</interp><ptr target="#no3">3</ptr></l>
+                    <l>against <interp type="marxist-rhetoric">hatred's vicious scythe.</interp><ptr target="#no4">4</ptr> </l>
                     </lg>
                     <lg>
                     <l>Yes, anguish exists.</l>
@@ -122,6 +122,10 @@
                     </lg>
               <note type="editorial" target="#hsm"> [HSM] </note>
             </div1>
+             <note xml:id="no1"></note>
+            <note xml:id="no2"></note>
+            <note xml:id="no3"></note>
+            <note xml:id="no4"></note>
         </body>
     </text>
 </TEI>
