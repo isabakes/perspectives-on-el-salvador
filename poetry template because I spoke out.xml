@@ -5,7 +5,7 @@
             <titleStmt>
                 <title level="m" type="main">Because I Spoke Out</title>
                 <author>Roque Dalton</author>
-                <editor role="translator" target="#hsm">Hardie St. Martin</editor>
+                <editor role="translator" sameAs="#hsm">Hardie St. Martin</editor>
                 <editor role="translator" xml:id="jg">James Graham</editor>
                       <editor role="translator">Jonathan Cohen</editor>
                        <editor role="translator">Ralph Nelson</editor>
@@ -25,6 +25,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
+            <authority>Isabella Baker</authority>
                 <availability>
                     <p>Licensed under a
                         <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>

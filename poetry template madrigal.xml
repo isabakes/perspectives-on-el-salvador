@@ -5,7 +5,7 @@
             <titleStmt>
                 <title level="m" type="main">Madrigal</title>
                 <author>Roque Dalton</author>
-                <editor role="translator" target="#hsm">Hardie St. Martin</editor>
+                <editor role="translator" sameAs="#hsm">Hardie St. Martin</editor>
                 <editor role="translator" xml:id="jg">James Graham</editor>
                       <editor role="translator">Jonathan Cohen</editor>
                        <editor role="translator">Ralph Nelson</editor>
