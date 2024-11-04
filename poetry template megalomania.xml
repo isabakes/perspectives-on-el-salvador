@@ -5,22 +5,22 @@
             <titleStmt>
                 <title level="m" type="main">Megalomania</title>
                 <author>Roque Dalton</author>
-                <translator target="#hsm">Hardie St. Martin</translator>
-                <translator xml:id="jg">James Graham</translator>
-                      <translator>Jonathan Cohen</translator>
-                       <translator>Ralph Nelson</translator>
-                        <translator>Paul Pines</translator>
-                         <translator>David Unger</translator>
+                <editor role="translator" target="#hsm">Hardie St. Martin</editor>
+                <editor role="translator" xml:id="jg">James Graham</editor>
+                      <editor role="translator">Jonathan Cohen</editor>
+                       <editor role="translator">Ralph Nelson</editor>
+                        <editor role="translator">Paul Pines</editor>
+                         <editor role="translator">David Unger</editor>
                 <editor role="editor" xml:id="hsm">Hardie St. Martin</editor>
                 <editor role="digital-edition-editor" xml:id="ib">Isabella Baker</editor>
                 <respStmt>
                     <resp>Encoding</resp>
-                    <persName xml:id="ib">Isabella Baker</persName>
+                    <persName resp="#ib">Isabella Baker</persName>
                 </respStmt>
                 <sponsor>Boston College</sponsor>
             </titleStmt>
             <editionStmt>
-                <edition><p></p> [note]
+                <edition>
                     <date>Fall 2024</date>
                 </edition>
             </editionStmt>
@@ -40,12 +40,12 @@
                 <bibl>
                     <author>Roque Dalton</author>
                     <editor>Hardie St. Martin</editor>
-                    <translator>Hardie St. Martin</translator>
-                     <translator>James Graham</translator>
-                      <translator>Jonathan Cohen</translator>
-                       <translator>Ralph Nelson</translator>
-                        <translator>Paul Pines</translator>
-                         <translator>David Unger</translator>
+                    <editor role="translator">Hardie St. Martin</editor>
+                     <editor role="translator">James Graham</editor>
+                      <editor role="translator">Jonathan Cohen</editor>
+                       <editor role="translator">Ralph Nelson</editor>
+                        <editor role="translator">Paul Pines</editor>
+                         <editor role="translator">David Unger</editor>
                     <date when="1996-09">September 1996</date>
                     <title>Small Hours of the Night: Selected Poems of Roque Dalton</title>
                     <idno type="isbn">9781880684351</idno>
@@ -67,14 +67,14 @@
             
                 <lg type="stanza">
                 
-                    <l>Frederick II was emperor of the <interp type="marxist-rhetoric">high-and-mighty</interp><ptr target="#no1">1</ptr>Germans and yet </l>
-                    <l><interp type="marxist-rhetoric">he was excommunicated by the Pope</interp><ptr target="#no2">2</ptr> </l>
+                    <l>Frederick II was emperor of the <interp type="marxist-rhetoric">high-and-mighty</interp><ptr target="#no1"/>Germans and yet </l>
+                    <l><interp type="marxist-rhetoric">he was excommunicated by the Pope</interp><ptr target="#no2"/></l>
                     <l>because he made the study of medicine a requisite for doctors </l>
                     <l>before they could prescribe infusions for a fee </l>
                     <l>or cut off flesh from a person's flesh. </l>
                     </lg>
                     <lg>
-                    <l><interp type="marxist-rhetoric">Miguel Servet was excommunicated shortly before</interp><ptr target="#no3">3</ptr></l> 
+                    <l><interp type="marxist-rhetoric">Miguel Servet was excommunicated shortly before</interp><ptr target="#no3"/></l> 
                     <l>they reduced him to ashes: </l>
                     <l>they say this was to speed it up for him</l> 
                     <l>to go on discussing the advanced sciences in restful eternity.</l>
@@ -85,11 +85,11 @@
                     <l>running around </l> [note:justify right]
                     </lg>
                     <lg>
-                    <l><interp type="marxist-rhetoric">city neighborhoods getting rich</interp><ptr target="#no4">4</ptr> from the sale of indulgences </l>
+                    <l><interp type="marxist-rhetoric">city neighborhoods getting rich</interp><ptr target="#no4"/> from the sale of indulgences </l>
                     <l>paid in hardcash, </l> [note: justify right]
                     </lg>
                     <lg>
-                    <l><interp type="marxist-rhetoric">He was thrown out of the Church</interp><ptr target="#no5">5</ptr> for defending God's liver</l>
+                    <l><interp type="marxist-rhetoric">He was thrown out of the Church</interp><ptr target="#no5"/>for defending God's liver</l>
                     </lg>
                     <lg>
                     <l>Thin, puny, with wary eye and down-trodden look, </l>

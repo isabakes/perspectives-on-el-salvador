@@ -5,22 +5,22 @@
             <titleStmt>
                 <title level="m" type="main">César Vallejo</title>
                 <author>Roque Dalton</author>
-                <translator target="#hsm">Hardie St. Martin</translator>
-                <translator xml:id="jg">James Graham</translator>
-                      <translator>Jonathan Cohen</translator>
-                       <translator>Ralph Nelson</translator>
-                        <translator>Paul Pines</translator>
-                         <translator>David Unger</translator>
+                <editor role= "translator" target="#hsm">Hardie St. Martin</editor>
+                <editor role= "translator" xml:id="jg">James Graham</editor>
+                      <editor role= "translator">Jonathan Cohen</editor>
+                       <editor role= "translator">Ralph Nelson</editor>
+                        <editor role= "translator">Paul Pines</editor>
+                         <editor role= "translator">David Unger</editor>
                 <editor role="editor" xml:id="hsm">Hardie St. Martin</editor>
                 <editor role="digital-edition-editor" xml:id="ib">Isabella Baker</editor>
                 <respStmt>
                     <resp>Encoding</resp>
-                    <persName xml:id="ib">Isabella Baker</persName>
+                    <persName resp="#ib">Isabella Baker</persName>
                 </respStmt>
                 <sponsor>Boston College</sponsor>
             </titleStmt>
             <editionStmt>
-                <edition><p></p> [note: explain what the point of this digital edition is]
+                <edition>
                     <date>Fall 2024</date>
                 </edition>
             </editionStmt>
@@ -40,12 +40,12 @@
                 <bibl>
                     <author>Roque Dalton</author>
                     <editor>Hardie St. Martin</editor>
-                    <translator>Hardie St. Martin</translator>
-                     <translator>James Graham</translator>
-                      <translator>Jonathan Cohen</translator>
-                       <translator>Ralph Nelson</translator>
-                        <translator>Paul Pines</translator>
-                         <translator>David Unger</translator>
+                    <editor role= "translator">Hardie St. Martin</editor>
+                     <editor role= "translator">James Graham</editor>
+                      <editor role= "translator">Jonathan Cohen</editor>
+                       <editor role= "translator">Ralph Nelson</editor>
+                        <editor role= "translator">Paul Pines</editor>
+                         <editor role= "translator">David Unger</editor>
                     <date when="1996-09">September 1996</date>
                     <title>Small Hours of the Night: Selected Poems of Roque Dalton</title>
                     <idno type="isbn">9781880684351</idno>
@@ -71,12 +71,12 @@
                     <l>—good breeding </l>
                     <l>raises its knife-edge—</l>
                     <l>this body not yet introduced to me </l>
-                    <l>better than when it lived <interp type="marxist-rhetoric">yields to death itself </interp><ptr target="#no1">1</ptr></l>
+                    <l>better than when it lived <interp type="marxist-rhetoric">yields to death itself </interp><ptr target="#no1"/></l>
                     <l>it waves its petals to the seeds of love</l>
                     </lg>
                     <lg>
                     <l>This dead body who would have imagined it </l>
-                    <l><interp type="marxist-rhetoric">defending its cup of storms </interp><ptr target="#no2">2</ptr></l>
+                    <l><interp type="marxist-rhetoric">defending its cup of storms </interp><ptr target="#no2"/></l>
                     <l>visited by blind circus butterflies </l>
                     <l>its huge pores dead </l>
                     <l>its old smokes dead from his sitting there </l>
@@ -87,27 +87,29 @@
                     <lg>
                     <l>This dead body that contradicts me </l>
                     <l>growing shoulder to shoulder with the language </l>
-                    <l>of a <interp type="marxist-rhetoric">just calamity that crackles </interp><ptr target="#no3">3</ptr></l>
+                    <l>of a <interp type="marxist-rhetoric">just calamity that crackles </interp><ptr target="#no3"/></l>
                     </lg>
                     <lg>
                     <l>This dead body of dry water </l>
                     <l>this critically ill </l>
                     <l>dead body whose bones are guests </l>
                     <l>comes in runs its fingers over its flags </l>
-                    <l><interp type="marxist-rhetoric">interrogates its interrogators</interp><ptr target="#no4">4</ptr> </l>
+                    <l><interp type="marxist-rhetoric">interrogates its interrogators</interp><ptr target="#no4"/></l>
                     <l>this body gives with all its heart the only thing it owns </l>
                     <l>it wept it comes back and goes away weeping </l>
                     </lg>
                     <lg>
-                    <l>Somewhere in the world <interp type="marxist-rhetoric">his tombstone breathes</interp><ptr target="#no5">5</ptr></l>
-                    <l>under the <interp type="marxist-rhetoric">solemn weight</interp><ptr target="#no6">6</ptr> of the name he gave life to </l>
+                    <l>Somewhere in the world <interp type="marxist-rhetoric">his tombstone breathes</interp><ptr target="#no5"/></l>
+                    <l>under the <interp type="marxist-rhetoric">solemn weight</interp><ptr target="#no6"/> of the name he gave life to </l>
                     <l>one day he said things that will always last </l>
-                    <l><interp type="marxist-rhetoric">the world is much heavier since his death </interp><ptr target="#no7">7</ptr></l>
+                    <l><interp type="marxist-rhetoric">the world is much heavier since his death </interp><ptr target="#no7"/></l>
                     </lg>
               <note type="editorial" target="#hsm"> [HSM] </note>
             </div1>
-            <note xml:id="no1"></note>
-            <note xml:id="no2"></note>
+            <note xml:id="no1">"Yielding" to death connotes the finale of a battle of survival. Dalton fought for communist political causes and was
+            exiled for his alleged traitorous behavior against the Salvadoran government. </note>
+            <note xml:id="no2">"Cup of storms" may refer to a controlled, specific rage against an injustice. Defending outrage for such injustice,
+            rather than letting it fester or die out, is implict in </note>
             <note xml:id="no3"></note>
             <note xml:id="no4"></note>
             <note xml:id="no5"></note>

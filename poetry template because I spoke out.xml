@@ -5,22 +5,22 @@
             <titleStmt>
                 <title level="m" type="main">Because I Spoke Out</title>
                 <author>Roque Dalton</author>
-                <translator target="#hsm">Hardie St. Martin</translator>
-                <translator xml:id="jg">James Graham</translator>
-                      <translator>Jonathan Cohen</translator>
-                       <translator>Ralph Nelson</translator>
-                        <translator>Paul Pines</translator>
-                         <translator>David Unger</translator>
+                <editor role="translator" target="#hsm">Hardie St. Martin</editor>
+                <editor role="translator" xml:id="jg">James Graham</editor>
+                      <editor role="translator">Jonathan Cohen</editor>
+                       <editor role="translator">Ralph Nelson</editor>
+                        <editor role="translator">Paul Pines</editor>
+                         <editor role="translator">David Unger</editor>
                 <editor role="editor" xml:id="hsm">Hardie St. Martin</editor>
                 <editor role="digital-edition-editor" xml:id="ib">Isabella Baker</editor>
                 <respStmt>
                     <resp>Encoding</resp>
-                    <persName xml:id="ib">Isabella Baker</persName>
+                    <persName resp="#ib">Isabella Baker</persName>
                 </respStmt>
                 <sponsor>Boston College</sponsor>
             </titleStmt>
             <editionStmt>
-                <edition><p></p> [note]
+                <edition>
                     <date>Fall 2024</date>
                 </edition>
             </editionStmt>
@@ -40,12 +40,12 @@
                 <bibl>
                     <author>Roque Dalton</author>
                     <editor>Hardie St. Martin</editor>
-                    <translator>Hardie St. Martin</translator>
-                     <translator>James Graham</translator>
-                      <translator>Jonathan Cohen</translator>
-                       <translator>Ralph Nelson</translator>
-                        <translator>Paul Pines</translator>
-                         <translator>David Unger</translator>
+                    <editor role="translator">Hardie St. Martin</editor>
+                     <editor role="translator">James Graham</editor>
+                      <editor role="translator">Jonathan Cohen</editor>
+                       <editor role="translator">Ralph Nelson</editor>
+                        <editor role="translator">Paul Pines</editor>
+                         <editor role="translator">David Unger</editor>
                     <date when="1996-09">September 1996</date>
                     <title>Small Hours of the Night: Selected Poems of Roque Dalton</title>
                     <idno type="isbn">9781880684351</idno>
@@ -69,10 +69,10 @@
                 <lg type="stanza">
                 
                     <l>The last hired mourner went off </l>
-                    <l>to look for <interp type="marxist-rhetoric">comfort among fools.</interp><ptr target="#no1">1</ptr> </l>
+                    <l>to look for <interp type="marxist-rhetoric">comfort among fools.</interp><ptr target="#no1"/></l>
                     </lg>
                     <lg>
-                    <l>(I could <interp type="marxist-rhetoric">stand naked in this huge town square</interp><ptr target="#no2">2</ptr> </l>
+                    <l>(I could <interp type="marxist-rhetoric">stand naked in this huge town square</interp><ptr target="#no2"/></l>
                     <l>lit up by the phosphorescences of the stillness</l>
                     <l>and there would be no intruders to stare at me. </l>
                     </lg>
@@ -85,7 +85,7 @@
                     <l> and weep with me to the end.</l>
                     </lg>
                     <lg>
-                    <l>Maybe then <interp type="marxist-rhetoric">I'll be strong enough to make the truth less bitter.</interp><ptr target="#no3">3</ptr></l>
+                    <l>Maybe then <interp type="marxist-rhetoric">I'll be strong enough to make the truth less bitter.</interp><ptr target="#no3"/></l>
                 </lg>
               <note type="editorial" target="#hsm"> [HSM] </note>
             </div1>
