@@ -64,7 +64,8 @@
             <pb facs="" xml:id="leaf001r" type="recto"/>
             <div1 type="poem">
                
-                <head type="main-authorial">CÉSAR VALLEJO</head>
+                <head type="main-authorial">CÉSAR VALLEJO</head> *I want to add a preliminary note about
+                Vallejo to contextualize the rest of my mark-up
             
                 <lg type="stanza">
                 
@@ -100,22 +101,29 @@
                     <l>it wept it comes back and goes away weeping </l>
                     </lg>
                     <lg>
-                    <l>Somewhere in the world <interp type="marxist-rhetoric">his tombstone breathes</interp><ptr target="#no5"/></l>
-                    <l>under the <interp type="marxist-rhetoric">solemn weight</interp><ptr target="#no6"/> of the name he gave life to </l>
+                    <l>Somewhere in the world his tombstone breathes</l>
+                    <l>under the <interp type="marxist-rhetoric">solemn weight</interp><ptr target="#no5"/> of the name he gave life to </l>
                     <l>one day he said things that will always last </l>
-                    <l><interp type="marxist-rhetoric">the world is much heavier since his death </interp><ptr target="#no7"/></l>
+                    <l>the world is much heavier since his death </l>
                     </lg>
               <note type="editorial" target="#hsm"> [HSM] </note>
             </div1>
-            <note xml:id="no1">"Yielding" to death connotes the finale of a battle of survival. Dalton fought for communist political causes and was
-            exiled for his alleged traitorous behavior against the Salvadoran government. </note>
-            <note xml:id="no2">"Cup of storms" may refer to a controlled, specific rage against an injustice. Defending outrage for such injustice,
-            rather than letting it fester or die out, is implict in </note>
-            <note xml:id="no3"></note>
-            <note xml:id="no4"></note>
-            <note xml:id="no5"></note>
-            <note xml:id="no6"></note>
-            <note xml:id="no7"></note>
+            <note xml:id="no1">"Yielding" to death connotes the finale of a battle of survival. Dalton fought on behalf of the working class
+             and was exiled for his alleged traitorous behavior against the Salvadoran government. The sentiment of being willing to die (for 
+             an anti-capitalist cause) is characterized as honorable, positively attributing Marxist motives.
+              </note>
+            <note xml:id="no2">The "cup of storms" may refer to an individualized, controlled rage against injustice (confined, to a degree). 
+            "Defending" and thus, acting on this individualized, violent rage against injustice is emotionally characteristic of a Marxist "urging" towards 
+            immediate political and social change </note>
+            <note xml:id="no3">Calamity can refer to any notion of disaster, but the notions of a "just" calamity implies that disaster was warranted.
+            Disaster negatively affects populations, but for Marxists, disaster enacted on oppressors may seem justifiable. Such calamity, in turn,
+            "crackles" with the opportunity for an overturning of power.</note>
+            <note xml:id="no4">Interrogation appears most often in the context of a criminal case, where serving justice is the overarching goal. However, 
+            Dalton asks us, in Marxist fashion, to questions those who question us. In other words, one must be critical about the agents that enact social and 
+            political order.</note>
+            <note xml:id="no5">This solemn weight, externally referring to a revered literary figure, may also refer to the burden that every Marxist 
+            revolutionary carries to constantly question the status quo.</note>
+            
         </body>
     </text>
 </TEI>
