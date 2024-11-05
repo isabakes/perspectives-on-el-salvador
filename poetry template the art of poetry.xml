@@ -107,8 +107,8 @@
                     <l><interp type="marxist-rhetoric">their avenging fires against crime</interp><ptr target="#no2"/> </l>
                     </lg>
                     <lg>
-                    <l><interp type="marxist-rhetoric">their love with its interminable roots</interp><ptr target="#no3"/></l>
-                    <l>against <interp type="marxist-rhetoric">hatred's vicious scythe.</interp><ptr target="#no4"/></l>
+                    <l>their love with its interminable roots</l>
+                    <l>against <interp type="marxist-rhetoric">hatred's vicious scythe.</interp><ptr target="#no3"/></l>
                     </lg>
                     <lg>
                     <l>Yes, anguish exists.</l>
@@ -123,10 +123,13 @@
                     </lg>
               <note type="editorial" target="#hsm"> [HSM] </note>
             </div1>
-             <note xml:id="no1"></note>
-            <note xml:id="no2"></note>
-            <note xml:id="no3"></note>
-            <note xml:id="no4"></note>
+             <note xml:id="no1">The "men" that Dalton speak about seem to exist unapologetically, and rage on regardless of
+             the circumstances. Despair may be an emotional symbol for oppressive powers, and the men are willing to urgently 
+             "shake their fists" at it.</note>
+            <note xml:id="no2">This is very similar sentiment to the previous line, but utilized more overt notions of justice
+            vis-a-vis the notion of "avenging crimes."</note>
+            <note xml:id="no3">Scythes are associated with reaping and death; quite literally the cutting down of lives en masse
+            in the same way as sheaves of wheat. The vicious scythe may be another symbol of governmental oppression.</note>
         </body>
     </text>
 </TEI>
