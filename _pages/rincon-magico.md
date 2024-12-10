@@ -49,13 +49,13 @@ Authentic Salvadoran Symbols
 [insert close-up of torogoz next to a picture of a real one next to a picture of Los Torogoces]
 <div class="row">
   <div class="column">
-    <img src="assets/img/torogoz-colon.jpg" alt="Colón torogoz" style="width:100%">
+    <img src="assets/img/torogoz-colon.jpg" alt="Colón torogoz" style="width:30%">
   </div>
   <div class="column">
-    <img src="assets/img/torogoz-real.jpg" alt="Real torogoz" style="width:100%">
+    <img src="assets/img/torogoz-real.jpg" alt="Real torogoz" style="width:30%">
   </div>
   <div class="column">
-    <img src="assets/img/los-torogoces.jpg" alt="Los Torogoces de Morazán" style="width:100%">
+    <img src="assets/img/los-torogoces.jpg" alt="Los Torogoces de Morazán" style="width:30%">
   </div>
 </div>
 
