@@ -45,18 +45,20 @@ Authentic Salvadoran Symbols
 </span>
 
 <p>	On the other hand, some of the symbols do speak to Salvadoran authenticity and essence. One of the birds that looks like a finch, for instance, is the Salvadoran national bird – the torogoz, or turquoise-browed motmot. The torogoz actually distances itself from notions of tropicalization, as it mostly lives in the forest or shrubland (Redlist). Furthermore, torogoces have historically been a symbol of Salvadoran nationalism and independence. Los Torogoces de Morazán was actually a guerilla musical group associated with the FMLN that traveled through El Salvador and performed intending to be a “weapon of war,” and expose the truth of U.S. involvement and Salvadoran government tyranny during the height of the Civil War in the eighties . The musicians even called themselves “the musical expression of the Salvadoran revolution” (Azahar).</p>	
-<table border="0">
- <tr>
-    <td><object data="assets/img/torogoz-colon.jpg" type="img" width="30px">
-</object>
-</td>
-    <td><object data="assets/img/torogoz-real.jpg" type="img" width="30px">
-</object>
-    </td>
-   <td><object data="assets/img/los-torogoces.jpg" type="img" width="30px">
-</object>
-    </td>
- </tr>
+<table>
+    <tr>
+        <td><img src="assets/img/torogoz-colon.jpg" 
+            alt="Colón torogoz" title="Colón torogoz" /></td>
+        <td><img src="assets/img/torogoz-real.jpg" alt="Real torogoz" 
+            title="Real torogoz" /></td>
+        <td><img src="assets/img/los-torogoces.jpg" 
+            alt="Los Torogoces de Morazán" title="Los Torogoces de Morazán" /></td>
+    </tr>
+    <tr>
+        <td>Colón torogoz</td>
+        <td>Real torogoz</td>
+        <td>Los Torogoces de Morazán</td>
+    </tr>
 </table>
 
 <p>	Another surprisingly authentic symbol is the little white houses with red roofs, which actually represent a typical house in a Salvadoran rural neighborhood or pueblo. Since 2019, El Salvador has focused tourism efforts on rural areas, especially to attract Europeans. The idea of these efforts is to market these areas as “pueblos vivos,” or living towns that are several kilometers away from city centers. The pueblos vivos notion intends to economically invigorate poorer areas that boast “strong indigenous roots, typical gastronomy, crafts made with natural fibers, as well as its religious celebrations” (Fernandez). The little white houses with red roofs are thus able to conjure up images of an El Salvador that was closer to its peasant, indigenous roots, while still serving to present a marketable image to tourists.</p>
