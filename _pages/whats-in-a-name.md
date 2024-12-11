@@ -46,9 +46,30 @@ Symbolic Tensions
     </tr>
 </table>
 <p>The prevalence of these protected items on Salvadoran currency emphasizes religion – Catholicism specifically – as being significant to Salvadoran identity. Furthermore, the artisan who designed my decoration chose to depict the reverse side of the 2 and 200 bills, when could have kept his pattern with the 1 and 5 bills which simply show Columbus. Despite Columbus and Spain being the reason for the introduction of Catholicism into Central America, symbols of Catholicism are physically distinguished from Columbus. In purposefully hanging a print Columbus’s bust next to a print of a Salvadoran cultural epicenter (the Monumento), El Salvador disassociates Columbus’s colonial role and effectively reclaims Catholicism for themselves.</p>
-[insert each individual close-up of a bill here]
 
 <p>There are also the reverse side of bills that point to indigenous Salvadoran roots – evident in its maintained native name and history. The 10 colónes bill depicts Izalco, an active volcano; the 50 colónes bill depicts the Lago de Coatepeque, a lake; and the 100 colónes depicts the Tazumal, the ruins of a Mayan pyramid. All three of these landmarks are indigenous in name and the Tazumal is clear evidence of previous native civilizations. Coatepeque and the Tazumal are even offered in tourist packages for people “craving cultural immersion…making it a must-do for both history buffs and nature lovers” (Tunco Life Tours). Here, this connection between native history and Salvadoran authenticity is again reinforced, but stands alongside symbolic landmarks that are attractive to tourists. Those who crave “cultural immersion” seem to also want to spend time in nature, again appealing to the historical aspect of “primitive” civilizations who were “one with the Earth.” There seem to be tourist benefits from drawing a connection between cultural landmarks and native heritage (and legacy, as those landmarks are named in a native tongue). Though the presence of these landmarks on the colón isn’t necessarily for tourists, who ultimately won’t be using such currency for transactions in El Salvador, it is interesting that the artisan of my decoration chose to use versions of bills with such notable cultural and religious significance, and furthermore, emphasize the back of most of the bills rather than the Columbus-centered front of them. Again, the artisan accepts the colonial legacy without trying to emphasize it.</p>
+<table>
+    <tr>
+        <td><img src="assets/img/10-bill.jpg" 
+             width="250" 
+            alt="Back of 10 colónes bill, depicting Izalco" title="Back of 2 colónes bill, depicting Izalco"/></td>
+        <td><img src="assets/img/25-bill.jpg" 
+             width="250" 
+             alt="Back of 25 colónes bill, depicting the Puerto de Acajutla" title="Back of 25 colónes bill, depicting the Puerto de Acajutla" /></td>
+         <td><img src="assets/img/50-bill.jpg" 
+             width="250" 
+            alt="Back of 50 colónes bill, depicting the Lago de Coatepeque" title="Back of 50 colónes bill, depicting the Lago de Coatepeque"/></td>
+        <td><img src="assets/img/100-bill.jpg" 
+             width="250" 
+             alt="Back of 100 colónes bill, depicting Tazumal" title="Back of 100 colónes bill, depicting Tazumal" /></td>
+    </tr>
+    <tr>
+        <td><i>Back of 10 colónes bill, depicting Izalco</i></td>
+        <td><i>Back of 25 colónes bill, depicting the Puerto de Acajutla</i></td>
+        <td><i>Back of 50 colónes bill, depicting the Lago de Coatepeque</i>/td>
+        <td><i>Back of 100 colónes bill, depicting Tazumal</i></td>
+    </tr>
+</table>
 
 <p>The image on the 25 colónes bill quickly strings this nationalistic, yet tourist-friendly, narrative together. It depicts the Puerto de Acajutla, El Salvador’s most prominent trade port – and of course, the locus of international and regional exchange of commodities. This very port seems to also have colonial origins “best-known among Spanish navigators, their ships and their fleets” (Escalante Arce). The port essentially became a place of cultural exchange during the advent of colonialism in the sixteenth century, escalating even more so in the nineteenth century, where “technologies like the steamship and railroad inextricably connected El Salvador to global markets” (Bridges and Mejía). Puerto de Acajutla reminds us of the Spanish roots of the religious landmarks symbolically upheld on bills 2 and 10, while continually necessitating a future that relies on outside powers (via tourism or via foreign exports) in order to rebuild a nation with such a complex and destabilized economic past. </p>
 
