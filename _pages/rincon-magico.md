@@ -61,9 +61,9 @@ Authentic Salvadoran Symbols
             alt="Los Torogoces de Morazán" title="Los Torogoces de Morazán" /></td>
     </tr>
     <tr>
-        <td>Colón torogoz</td>
-        <td>Real torogoz</td>
-        <td>Los Torogoces de Morazán</td>
+        <td><i>Colón torogoz</i></td>
+        <td><i>Real torogoz</i></td>
+        <td><i>Los Torogoces de Morazán</i></td>
     </tr>
 </table>
 
@@ -80,8 +80,8 @@ Authentic Salvadoran Symbols
              alt="Real pueblos vivos" title="Real pueblos vivos" /></td>
     </tr>
     <tr>
-        <td>Colón pueblos vivos</td>
-        <td>Real pueblos vivos</td>
+        <td><i>Colón pueblos vivos</i></td>
+        <td><i>Real pueblos vivos</i></td>
     </tr>
 </table>
 
