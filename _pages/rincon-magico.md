@@ -16,7 +16,7 @@ The Civil War
  
 <p>	As the war commenced, the Reagan administration took over and continued to fund the Salvadoran government, afraid that a potentially successful FMLN would lead El Salvador into a Communist model of government on par with Cuba. Violence was prevalent on both sides, though ultimately, innocent civilian deaths were more often caused by the JRG government than by the guerillas. So many Salvadorans were displaced that they were given temporary protected status in the U.S. – but not until the early 1990s. This proved to be too late as peace treaties for the Civil War were made in 1992. Most applications for protected status in the U.S. were denied during the first decade of the war (UC Davis Migration News). </p>
 
- <span style="float: left; width: 400px; margin: 15px;">
+ <span style="float: left; width: 350px; margin: 15px;">
 ![Image of two gang members from MS-13 in L.A. during the 1990s](assets/img/ms131990s.jpg)
 *Two gang members from MS-13 in L.A. during the 1990s.*
 </span>
@@ -85,3 +85,4 @@ Authentic Salvadoran Symbols
     </tr>
 </table>
 
+[Next page →](whats-in-a-name.html)
