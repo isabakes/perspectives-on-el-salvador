@@ -6,7 +6,7 @@ show-title: false
 ---
 <h2 style="text-align:center;">What’s in a Name: Colonial Tensions in Indigenous Imagery</h2> 
 
-Columbus’ Memory in Central America
+Columbus’ Memory in Central America 
 --
 <p>The Salvadoran colón – named after Christopher Columbus’s Spanish name, Cristóbal Colón – was established in 1892, to commemorate the bicentennial of Columbus’s “discovery” of the Americas (Chen). The banknote variation of the colón was established a few decades later, in 1934, and prominently featured the bust and profile of Columbus on the front of each bill, right up until its last year of circulation, in 2001. Since then, due to a destabilizing post-Salvadoran Civil War economy, the US dollar was introduced by the Salvadoran government at a fixed exchange rate.</p>
 
