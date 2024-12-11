@@ -55,22 +55,21 @@ Symbolic Tensions
             alt="Back of 10 colónes bill, depicting Izalco" title="Back of 2 colónes bill, depicting Izalco"/></td>
         <td><img src="assets/img/25-bill.jpg" 
              width="250" 
-             alt="Back of 25 colónes bill, depicting the Puerto de Acajutla" title="Back of 25 colónes bill, depicting the Puerto de Acajutla" /></td>
+             alt="Back of 25 colónes bill, depicting the Puerto de Acajutla" title="Back of 25 colónes bill, depicting the Puerto de Acajutla"/></td>
          <td><img src="assets/img/50-bill.jpg" 
              width="250" 
             alt="Back of 50 colónes bill, depicting the Lago de Coatepeque" title="Back of 50 colónes bill, depicting the Lago de Coatepeque"/></td>
         <td><img src="assets/img/100-bill.jpg" 
              width="250" 
-             alt="Back of 100 colónes bill, depicting Tazumal" title="Back of 100 colónes bill, depicting Tazumal" /></td>
+             alt="Back of 100 colónes bill, depicting Tazumal" title="Back of 100 colónes bill, depicting Tazumal"/></td>
     </tr>
     <tr>
         <td><i>Back of 10 colónes bill, depicting Izalco</i></td>
         <td><i>Back of 25 colónes bill, depicting the Puerto de Acajutla</i></td>
-        <td><i>Back of 50 colónes bill, depicting the Lago de Coatepeque</i>/td>
+        <td><i>Back of 50 colónes bill, depicting the Lago de Coatepeque</i></td>
         <td><i>Back of 100 colónes bill, depicting Tazumal</i></td>
     </tr>
 </table>
-
 <p>The image on the 25 colónes bill quickly strings this nationalistic, yet tourist-friendly, narrative together. It depicts the Puerto de Acajutla, El Salvador’s most prominent trade port – and of course, the locus of international and regional exchange of commodities. This very port seems to also have colonial origins “best-known among Spanish navigators, their ships and their fleets” (Escalante Arce). The port essentially became a place of cultural exchange during the advent of colonialism in the sixteenth century, escalating even more so in the nineteenth century, where “technologies like the steamship and railroad inextricably connected El Salvador to global markets” (Bridges and Mejía). Puerto de Acajutla reminds us of the Spanish roots of the religious landmarks symbolically upheld on bills 2 and 10, while continually necessitating a future that relies on outside powers (via tourism or via foreign exports) in order to rebuild a nation with such a complex and destabilized economic past. </p>
 
 [Next page →](adorning-ideologies.html)
