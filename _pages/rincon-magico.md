@@ -46,11 +46,11 @@ Authentic Salvadoran Symbols
 <p>	On the other hand, some of the symbols do speak to Salvadoran authenticity and essence. One of the birds that looks like a finch, for instance, is the Salvadoran national bird – the torogoz, or turquoise-browed motmot. The torogoz actually distances itself from notions of tropicalization, as it mostly lives in the forest or shrubland (Redlist). Furthermore, torogoces have historically been a symbol of Salvadoran nationalism and independence. Los Torogoces de Morazán was actually a guerilla musical group associated with the FMLN that traveled through El Salvador and performed intending to be a “weapon of war,” and expose the truth of U.S. involvement and Salvadoran government tyranny during the height of the Civil War in the eighties . The musicians even called themselves “the musical expression of the Salvadoran revolution” (Azahar).</p>	
 <table>
     <tr>
-        <td><img src="assets/img/torogoz-colon.jpeg" 
+        <td><img src="assets/img/torogoz-colon.jpg" 
             alt="Colón torogoz" title="Colón torogoz" /></td>
-        <td><img src="assets/img/torogoz-real.jpeg" alt="Real torogoz" 
+        <td><img src="assets/img/torogoz-real.jpg" alt="Real torogoz" 
             title="Real torogoz" /></td>
-        <td><img src="assets/img/los-torogoces.jpeg" 
+        <td><img src="assets/img/los-torogoces.jpg" 
             alt="Los Torogoces de Morazán" title="Los Torogoces de Morazán" /></td>
     </tr>
     <tr>
