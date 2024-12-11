@@ -67,4 +67,20 @@ Authentic Salvadoran Symbols
 </table>
 
 <p>	Another surprisingly authentic symbol is the little white houses with red roofs, which actually represent a typical house in a Salvadoran rural neighborhood or pueblo. Since 2019, El Salvador has focused tourism efforts on rural areas, especially to attract Europeans. The idea of these efforts is to market these areas as “pueblos vivos,” or living towns that are several kilometers away from city centers. The pueblos vivos notion intends to economically invigorate poorer areas that boast “strong indigenous roots, typical gastronomy, crafts made with natural fibers, as well as its religious celebrations” (Fernandez). The little white houses with red roofs are thus able to conjure up images of an El Salvador that was closer to its peasant, indigenous roots, while still serving to present a marketable image to tourists.</p>
-[insert close-up of pueblo next to an image of a real one]
+<table>
+    <tr>
+        <td><img src="assets/img/pueblos-vivos-colon.jpg" 
+             width="500" 
+             height="300"
+            alt="Colón pueblos vivos" title="Colón pueblos vivos"/></td>
+        <td><img src="assets/img/pueblos-vivos.jpg" 
+             width="500" 
+             height="300"
+             alt="Real pueblos vivos" title="Real pueblos vivos" /></td>
+    </tr>
+    <tr>
+        <td>Colón pueblos vivos</td>
+        <td>Real pueblos vivos</td>
+    </tr>
+</table>
+
