@@ -12,6 +12,7 @@ Click here to see the [Poema Lejano de Amor Project](http://marioquiroz.com/poem
 
 
 ![Image of a man with a bird on his shoulder](assets/img/poema-lejano-man.jpg)
+*Cover image of Quiroz's Poema de Amor photo collection of a man with a bird.*
 
 El Salvador: State of Exemption
 --
@@ -20,7 +21,7 @@ Click here to see the [El Salvador: State of Exemption photo series](https://www
 
 
 ![Image of two FMLN guerilla fighters](assets/img/fmln-guerillas.jpg)
-
+*A photo in Nickelsberg's collection of two FMLN guerilla fighters.*
 
 The Dark Triangle
 --
@@ -29,6 +30,7 @@ Click here to see [The Dark Triangle photo series](https://fred-ramos.com/the-da
 
 
 ![Image of a Central-American family at a cemetary](assets/img/family-at-cemetary.jpg)
+*A photo in Ramos' collection of a Central-American family at a cemetary.*
 
 Unaccompanied
 --
@@ -37,6 +39,7 @@ Click here to listen to Salvadoran-American poet and author Jaview Zamora readin
 
 
 ![Image of Javier Zamora next to his best-selling memoir, <i>Solito</i>, and his poetry collection, <i>Unaccompanied</i>](assets/img/zamora.jpg)
+*Author Javier Zamora and his two best-selling works.*
 
 L.A. Public Library Photo Collection 
 --
@@ -44,4 +47,5 @@ L.A. Public Library Photo Collection
 Click here to view the small section of the [L.A. Public Library Photo Collection](https://tessa2.lapl.org/digital/collection/photos/search/searchterm/Salvadoran%20Americans--California--Los%20Angeles./field/subjec/mode/exact/conn/and) that houses pictures of Salvadoran-American citizens living in Los Angeles in the late twentieth century, held at the TESSA Digital Collections of the Los Angeles Public Library. These images are part of the Shades of L.A. collection, which serve to portray and memorialize the historical and cultural diversity of families living in Los Angeles. These pictures were crowdsourced from various personal and non-profit organizations, and depict daily life in the context of family albums, social organizations, work, personal and holiday celebrations, and migration and immigration activities. The four images presented are all Salvadoran portraits or family photos, which look as if they date generally back to the middle or middle-end of the twentieth century.
 
 
-<img src="assets/img/lalibrary.jpg" alt="Image of Savadoran-American L.A. citizens, Pillar Morrojin and her two sons" width="1000"/>
+<img src="assets/img/lalibrary.jpg" alt="Image of Salvadoran-American L.A. citizens, Pillar Morrojin and her two sons" width="1000"/>
+*A photo in the LAPL collection of Salvadoran-American L.A. citizens, Pillar Morrojin and her two sons.*
