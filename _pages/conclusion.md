@@ -1,6 +1,7 @@
 ---
 layout: page
-  title: Conclusion
+title: Conclusion
 permalink: conclusion
 show-title: true
 ---
+
