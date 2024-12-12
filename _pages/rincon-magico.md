@@ -6,8 +6,8 @@ show-title: false
 ---
 <h2 style="text-align:center;">“Rincón Mágico”: Tropicalization as Nationwide Rebranding</h2> 
 
-The Civil War
---
+<h3 style="text-align:left;">The Civil War</h3>
+
 <span style="float: right; width: 400px; margin: 15px;">
 ![Image of the Revolutionary Government Junta, the coalition of civilian-military dictators that represented one side of the Salvadoran Civil War](assets/img/jrg.jpg)
 *Revolutionary Government Junta, the coalition of civilian-military dictators that represented one side of the Salvadoran Civil War.*
@@ -22,8 +22,8 @@ The Civil War
 </span>
 <p>	Many of the Salvadorans who fled to the U.S. during the 1980s were undocumented and therefore entered into a new manner of dangerous living. Some Salvadoran immigrants – displaced, discriminated, and poor – joined gangs and were eventually imprisoned, forcing their deportation due to the 1996 Illegal Immigration Reform and Immigrant Responsibility Act (Knapp). Mass deportations of Salvadoran convicted criminals from the U.S. prison system to El Salvador led gang members to then recruit in El Salvador. The gang violence transferred over from the U.S. and became a foremost Salvadoran issue. In many cases, gangs back in their home country often held more power than the Salvadoran government, creating a huge rupture in civilian daily life. MS-13, among others, was one of the foremost gangs of this era (Adams and Pizarro).</p>
 
-Bukele Cracks Down
---
+<h3 style="text-align:left;">Bukele Cracks Down</h3>
+
 <p> In 2019, President Nayib Bukele was elected, a milestone for El Salvador as he beat out the two dominating political parties (at this point, the FMLN had transitioned from a guerilla group to the central Salvadoran “left”). His platform framed the Salvadoran gang problem – the competing MS-13 and the 18th Street Gang groups – as one of terrorism. Under his authority, the Terrorism Confinement Center was built. The 40,000-capacity maximum security prison was filled with 69,000 gang members by May of 2023 (Rodriguez). This was enabled through a state of exception, a policy where citizens had to forfeit their right to due process and the government was enabled to make widespread arrests (Rojas).</p>
 
 <p>Bukele’s swift exception policy inevitably sparked global controversy as it took away basic civil liberties. Anyone potentially associated with a gang could be locked up without trial indefinitely. However, daily Salvadoran life improved as people were no longer afraid to leave their houses at night or meander through the streets alone, and tourism in 2024 increased by 22%. Before then, tourism had been gradually introduced in the 1960s along with the establishment of the Salvadoran Institute of Tourism (ISTU) in 1961, and provided a moderate-at-best boost to the economy. This of course quickly turned for the worse less than two decades later with the start of the Salvadoran Civil War (Alfaro). However, due to multiple renewed tourism initiatives, especially more recent attempts to restore historic landmarks and improve infrastructure under Bukele’s administration, tourism is now considered one of the stabilizing factors of the Salvadoran economy. Visitors, mostly coming from the Global North, are attracted to the affordable beachy coasts and mountains, as well as the number of Mayan ruins that prove to be central to Salvadoran geographical character and identity (Patel, Clarín).</p>
@@ -31,8 +31,8 @@ Bukele Cracks Down
 <center><iframe width="600" height="600" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cZl60cnnxYS?title=0&controls=1&share=1&download=1&embed=1&cl=1&width=1280&height=720&overlays=1&ff=1" allowfullscreen="true"></iframe>
 <i>Sofia Vergara promoting the Salvador del Mundo monument and plaza.</i> </center>
 
-Authentic Salvadoran Symbols 
---
+<h3 style="text-align:left;">Authentic Salvadoran Symbols</h3>
+
 <p>	The hanging decoration in my kitchen is similar – in the way it exists in this liminal space of being artisanal but also mass-produced – to items sold in the shops catering to these tourists. It is made up of nine pieces of thin wood and is held together by small metal loops. The top piece is distinct as it serves as a sort of header or artist’s introduction, laying out a series of historical and cultural symbols to preface the former national currency. The top piece is also larger and arched on the top, and is where the artisan took creative liberties.</p>
 <p>	The arched top piece is printed and bordered with a fake wood grain and a green background. Within that, there is a colorful, outlined portion filled with tropical motifs – rainbow-colored plants, a butterfly, five different tropical birds (one toucan, three parrots, and one potential finch), and a rippling Salvadoran flag. On an ombre bubble on the right are the words “Rincón Mágico,” proudly referring to El Salvador as a “Magical Corner,” and on the bottom in rainbow block lettering it spells out “El Salvador.” Outside of the outlined tropical scene in the bottom left corner are two simple white buildings with red roofs. On the very top, also outside of the scene, is a rainbow banner that spells out “Lo Nuestro” in blue lettering. Below and to the right is a huge white dove with its wings outspread. Altogether, the artisan seems to weave a tapestry of images that to foreigners, appear to be generally tropical and idealized, but to a Salvadoran, actually serve as symbols of national identity.</p>
  
