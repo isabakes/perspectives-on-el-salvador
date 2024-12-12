@@ -6,8 +6,8 @@ show-title: false
 ---
 <h2 style="text-align:center;">What’s in a Name: Colonial Tensions in Indigenous Imagery</h2> 
 
-Columbus’ Memory in Central America 
---
+<h3 style="text-align:left;">Columbus’ Memory in Central America</h3>
+
 <p>The Salvadoran colón – named after Christopher Columbus’s Spanish name, Cristóbal Colón – was established in 1892, to commemorate the bicentennial of Columbus’s “discovery” of the Americas (Chen). The banknote variation of the colón was established a few decades later, in 1934, and prominently featured the bust and profile of Columbus on the front of each bill, right up until its last year of circulation, in 2001. Since then, due to a destabilizing post-Salvadoran Civil War economy, the US dollar was introduced by the Salvadoran government at a fixed exchange rate.</p>
 
 <span style="float: left; width: 400px; margin: 15px;">
@@ -16,8 +16,8 @@ Columbus’ Memory in Central America
 </span>
 <p>Hanging below the arched section of the artifact with these cultural yet marketable symbols there are a series of colón bills strung from the lowest value on top to the highest value on the bottom. Both the one colón bill and five colón bill depict an image of Christopher Columbus on the front. This feels strange, as Columbus, apart from his connection to Spanish colonialism across all Latin countries, never stepped foot in El Salvador. On Christopher Columbus' fourth voyage to the Americas in 1504, he explored the coast of Central America, mostly interacting with indigenous peoples in modern-day Honduras (Columbus and Bourne). Shortly thereafter, the Spanish, led by Pedro de Alvarado, conquered the native peoples of El Salvador in 1524, allowing a new era of Spanish colonialism (Fowler). During his exploration and successive colonization, Columbus “imagined himself as Christopher the Christ-bearer, girding the earth with the Gospel rather than Colón the coloniser” (Armitage). It seems that, at least looking forward to El Salvador now, his memory has only remained in the dominance of Catholicism in Salvadoran and Salvadoran-American identity today, which will be explored further in the next sections.</p>
 
-The Colón and Indigeneity 
---
+<h3 style="text-align:left;">The Colón and Indigeneity</h3> 
+
 <p>The persistence of Columbus on Salvadoran monies reflects that traditional racial hierarchies which privileged light skinned, Spanish purity. Today, and even in the perspective of the last fifty years, this feels strange due to the long-held ideal of a prototypical Salvadoran citizen: the mestizo. The notion of El Salvador as a “mestizo” nation emerged in the early 1930s during the “matanza,” or mass killings, orchestrated by the Salvadoran government in response to emerging indigenous, peasant rebellions. The government created a tactic to eradicate indigenous political and official existence – and disable any potential effectiveness of the rebellion – by declaring native peoples extinct. To renew national image (after this preview to the Civil War that would occur half a century later), the Salvadoran government sought to unify Salvadorans by emphasizing their “mixed-ness” (GROW^UP). This new ideal seemed positive in promoting “diverse racial elements as essential to the nation,” equating diversity as necessary in national pride (Telles and Garcia). However, by promoting “mixedness,” indigenous prevalence in mainstream Salvadoran consciousness was erased (Peterson). Through the “mestizo” designation, the Salvadoran government allowed for the myth that the “indios” no longer exist and that their stories and customs are lost to time and conquest (UNESCO). Both of these dominant Salvadoran archetypes – the mestizo and the lost indio – do not offer a satisfactory explanation for the lasting symbolism of a white European as the face of the colón. However, some post-Salvadoran Civil War aftermath, following the 1992 peace treaties, may be able to offer some explanation.</p>
 
 <span style="float: right; width: 400px; margin: 15px;">
@@ -26,8 +26,8 @@ The Colón and Indigeneity
 </span>
 <p>Since 1932 Matanza native peoples, fearful of the historically oppressive Salvadoran government, hid themselves from the social and political mainstream. However, the Civil War peace treaties of 1992 allowed for post-war development programs, one of which prioritized the governmental recognition and cultural reinvigoration of indigenous peoples (Peterson). This allowed for new indigenous political activism and a call to move back to Salvadoran, indigenous roots. This call carried forth a rebranding of El Salvador’s national heritage and thus, a rebranding of tourism pull factors – as El Salvador’s “strong indigenous roots” really ask tourists to come visit to experience a more primitive time and people. The locus of these peasant rebellions, the formerly peasant subsistence economy, and the very artisanal memories and practices now viewable at any street stall in the city are now romanticized and lauded as truly “Salvadoran.” Despite the potentially problematic elements of tourist initiatives, as of 2014, the indigenous people of El Salvador are legally recognized and protected by the Salvadoran government (Callejas). Indigenous roots are now celebrated rather than mythologized, and the “lost indios” are now at the forefront of a burgeoning nation, perhaps more so than Columbus.</p>
 
-Symbolic Tensions
---
+<h3 style="text-align:left;">Symbolic Tensions</h3>
+
 <p>True to the culture of the mestizo, El Salvador is inevitably characterized by its “strong indigenous roots” and its Spanish colonial past. This race-mixing also implies a mixing of culture, where some ideological aspects are maintained, and some get left behind. I believe that the imagery within the colón bills printed on my decoration are a fantastic example of native versus colonial tensions, and how the tense maintenance of these symbols promotes Salvadoran nationalism. Furthermore, since currency exchange maintains the economy, and the Salvadoran economy has historically been intervened by outside forces (like the U.S.), the bill itself appeals to these forces – via continually nodding to colonial foundations. However, with the reinvigoration of Salvadoran indigeneity, historically near the time in which the colón became defunct, perhaps the prevalence of this overt coloniality is fading away.</p> 
 
 <span style="float: left; width: 400px; margin: 15px;">
