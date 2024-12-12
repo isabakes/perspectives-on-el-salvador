@@ -4,13 +4,13 @@ title: American Studies Project
 permalink: american-studies
 show-title: true
 ---
-<h2 style="text-align:center;">A New Nationalism: Creating Culture with Salvadoran Knick Knacks</h2>
+<h1 style="text-align:center;">A New Nationalism: Creating Culture with Salvadoran Knick Knacks</h2>
 
 <p style="text-align:center;"> “What’s little understood is that the mass exodus to the United States earlier this year [2014] was actually 30 years in the making, fueled by American foreign policy decisions in the early 1980s and an act of Congress in the mid 1990s.” </p>
   
 <p style="text-align:center;">– PBS NewsHour weekend, November 8, 2014 </p>
 
-<h3 style="text-align:left;">Introduction</h3>
+<h2 style="text-align:left;">Introduction</h2>
  
 <span style="float: right; width: 400px; margin: 15px;">
 ![Image of a Salvadoran decoration printed with the colón, a defunct form of Salvadoran currency](assets/img/colon-decoration.jpg)
