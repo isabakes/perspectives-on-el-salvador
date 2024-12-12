@@ -4,9 +4,9 @@ title: American Studies Project
 permalink: conclusion
 show-title: false
 ---
-<h2 style="text-align:center;">Conclusion</h2>
+<h1 style="text-align:center;">Conclusion</h1>
 
-<span style="float: left; width: 200px; margin: 15px;">
+<span style="float: left; width: 300px; margin: 15px;">
 ![Image of my husband meeting his brother in El Salvador for the first time](assets/img/ebie-and-diego.jpg)
 *My husband meeting his brother in El Salvador for the first time.*
 </span>
