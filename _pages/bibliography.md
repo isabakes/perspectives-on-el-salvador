@@ -7,8 +7,8 @@ show-title: false
 <h2 style="text-align:center;">Bibliography</h2>
 <style>
   .hanging-indent {
-    text-indent: -1em; /* Indent the first line slightly to the left */
-    padding-left: 1em; /* Push the rest of the paragraph to the right */
+    text-indent: -5em; /* Indent the first line slightly to the left */
+    padding-left: 5em; /* Push the rest of the paragraph to the right */
   }
 </style>
 
