@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conclusion
+title: American Studies Project
 permalink: conclusion
-show-title: true
+show-title: false
 ---
 
