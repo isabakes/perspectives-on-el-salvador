@@ -16,4 +16,4 @@ show-title: false
 
 <p>However, acknowledging a colonial legacy does not equate to condoning or embracing it. Columbus’s place on the front of the Salvadoran bill no longer completely matters in history books – that era is quite literally defunct. New powers are at play, and new tensions are working head-to-head against each other. On one end: a “popular dictator” and the end of several decades of terrorism; on the other: a potential future of revised democracy, which skews traditional human rights in favor of a perceived greater good.</p>
 
-[Next page →](bibliography.html)
+[Next page →](as-bibliography.html)
