@@ -10,8 +10,8 @@ show-title: true
   
 <p style="text-align:center;">– PBS NewsHour weekend, November 8, 2014 </p>
 
-Introduction
--- 
+<h3 style="text-align:left;">Introduction</h3>
+ 
 <span style="float: right; width: 400px; margin: 15px;">
 ![Image of a Salvadoran decoration printed with the colón, a defunct form of Salvadoran currency](assets/img/colon-decoration.jpg)
 *My Salvadoran colón decoration hanging in my kitchen.*
