@@ -28,13 +28,9 @@ show-title: false
 
 <h3 style="text-align:left;">Mama H. and Bukele</h3>
 
-<span style="float: right; width: 300px; margin: 10px;">
-![Image of my mother-in-law tending to her Bukele decoration.](assets/img/mama-h.JPG)
-*Mama H tending to her Bukele decoration.*
-</span>
 <p>Bukele’s anti-terrorism efforts, if controversial, have made him extremely popular with Salvadorans and Salvadoran-Americans alike. His “war on gangs” have been documented by human rights organizations as continually undemocratic, as there is evidence of torture and mass unwarranted arrests that all come with his extended state of exception. Regardless, the proof is in the pudding: “any reservations that voters have about such actions – or a lackluster economy – are for now outweighed by the perception of security and progress: of a new El Salvador” (Graham). Lack of due process seems a fair price to pay to walk without fear on the streets. </p>
 
-<span style="float: left; width: 300px; margin: 10px;">
+<span style="float: right; width: 300px; margin: 10px;">
 ![Image of my mother-in-law's Bukele decoration hanging in her kitchen.](assets/img/mama-h-decor.JPG)
 *Mama H's Bukele decoration hanging in her kitchen.*
 </span>
