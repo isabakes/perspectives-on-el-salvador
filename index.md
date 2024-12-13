@@ -6,6 +6,7 @@ show-title: false
 <h1 style="text-align: center;">Perpsectives on El Salvador, a Digital Collection</h1>
 
 ![Image of exiting customs line at Dulles International Airport](assets/img/salvadoran-customs-line.jpg)
+*A mixture of Salvadoran-Americans and American tourists, waiting in a customs line to exit Dulles Airport in Virginia.*
 
 <p style="text-align: center;">~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~</p>
 
