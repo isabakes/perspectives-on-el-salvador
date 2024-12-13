@@ -25,7 +25,7 @@ show-title: false
 <h3 style="text-align:left;">Bukele Cracks Down</h3>
 
  <span style="float: right; width: 300px; margin: 10px;">
-![Image of gang members being held en masse in a Salvadoran prison](assets/img/ms131990s.jpg)
+![Image of gang members being held en masse in a Salvadoran prison](assets/img/gangs-imprisoned.jpg)
 *Gang members being held en masse in a Salvadoran prison.*
 </span>
 <p> In 2019, President Nayib Bukele was elected, a milestone for El Salvador as he beat out the two dominating political parties (at this point, the FMLN had transitioned from a guerilla group to the central Salvadoran “left”). His platform framed the Salvadoran gang problem – the competing MS-13 and the 18th Street Gang groups – as one of terrorism. Under his authority, the Terrorism Confinement Center was built. The 40,000-capacity maximum security prison was filled with 69,000 gang members by May of 2023 (Rodriguez). This was enabled through a state of exception, a policy where citizens had to forfeit their right to due process and the government was enabled to make widespread arrests (Rojas).</p>
