@@ -11,8 +11,8 @@ show-title: false
 <p>The Salvadoran colón – named after Christopher Columbus’s Spanish name, Cristóbal Colón – was established in 1892, to commemorate the bicentennial of Columbus’s “discovery” of the Americas (Chen). The banknote variation of the colón was established a few decades later, in 1934, and prominently featured the bust and profile of Columbus on the front of each bill, right up until its last year of circulation, in 2001. Since then, due to a destabilizing post-Salvadoran Civil War economy, the US dollar was introduced by the Salvadoran government at a fixed exchange rate.</p>
 
 <span style="float: left; width: 400px; margin: 15px;">
-![A map of Columbus' Fourth Journey to the Americas](assets/img/fourth-voyage.jpg)
-*A map of Columbus' Fourth Journey to the Americas.*
+![A map of Columbus' fourth journey to the Americas](assets/img/fourth-voyage.jpg)
+*A map of Columbus' fourth journey to the Americas.*
 </span>
 <p>Hanging below the arched section of the artifact with these cultural yet marketable symbols, there are a series of colón bills strung from the lowest value on top to the highest value on the bottom. Both the one colón bill and five colón bill depict an image of Christopher Columbus on the front. This feels strange, as Columbus, apart from his connection to Spanish colonialism across all Latin countries, never stepped foot in El Salvador. On Christopher Columbus' fourth voyage to the Americas in 1504, he explored the coast of Central America, mostly interacting with indigenous peoples in modern-day Honduras (Columbus and Bourne). Shortly thereafter, the Spanish, led by Pedro de Alvarado, conquered the native peoples of El Salvador in 1524, allowing a new era of Spanish colonialism (Fowler). During his exploration and successive colonization, Columbus “imagined himself as Christopher the Christ-bearer, girding the earth with the Gospel rather than Colón the coloniser” (Armitage). It seems that, at least looking forward to El Salvador now, his memory has only remained in the dominance of Catholicism in Salvadoran and Salvadoran-American identity today, which will be explored further in the next sections.</p>
 
